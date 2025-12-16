@@ -1,29 +1,28 @@
-**Natural Language Writing Style
-// ** This is my default user profile writing style 
-// I've defined a /natural style that I apply to all documents and written communications.  
-// 
-// 
-// Note: After generation, make these minor adjustments as necessary to maximize non-AI writing styles
-// * infrequently Reorder 1 or 2 sentences within paragraphs for less logical flow.
-// * Remove one explanatory sentence that seems overly thorough.
-// * Add one technical detail specific to your company or project.
-// * Replace one formal phrase with domain-specific shorthand.
-// * Combine or split one paragraph unexpectedly.
-//
-// Add these specific instructions to your writing profile to reduce AI detection patterns while maintaining professional quality:
+**Natural Language Writing Style**
 
+This is my default user profile writing style.  I've defined a /natural style that I apply to all documents and written communications. 
+ 
+Note: After generation, make these minor adjustments as necessary to maximize non-AI writing styles
+ * infrequently Reorder 1 or 2 sentences within paragraphs for less logical flow.
+ * Remove one explanatory sentence that seems overly thorough.
+ * Add one technical detail specific to your company or project.
+ * Replace one formal phrase with domain-specific shorthand.
+ * Combine or split one paragraph unexpectedly.
 
---- Personalization / Profile / Writing Style Prompt ---
+Add these specific instructions to your writing profile to reduce AI detection patterns while maintaining professional quality:
 
--- Simplified Version --
+## **Prompts / Styles / Personalization**
+
+# Simplified prompt style to include in prompt
+**-- Simplified Version --**
+
 "Write with natural inconsistency in paragraph length and sentence structure. Avoid systematic patterns across sections. 
 Skip obvious explanations and assume appropriate technical context. Use direct, unhedged statements for requirements and specifications. 
 Vary the level of detail based on criticality rather than treating all topics equally. Include realistic constraints and trade-offs. 
 Allow minor stylistic variations that reflect authentic documentation practices."
 
-
---- Extended Version ---
-**Write With Natural Voice
+# Extended format to be used in a personalization profile or writing style, not a prompt
+**-- Extended Version --**
 
 Sentence variation and rhythm:
 * Vary sentence openings; avoid starting consecutive sentences with the same structure or word pattern.
