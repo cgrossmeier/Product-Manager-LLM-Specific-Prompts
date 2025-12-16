@@ -11,7 +11,7 @@ Identify the top 10 competitors and their primary competing products in this pro
 **Goal:** [Specific improvement target]
 **Competitors:** [Known competitors]
 
-##Report: 
+## Report: 
 - **Competitors:** Identify the top 10 competitors in this product or market space
 - **Maturity:** Provide a scale of 1 to 10 on the competitor maturity of competing products
 - **Lacking Features:** Identify areas where product features are lacking or behind competitors
