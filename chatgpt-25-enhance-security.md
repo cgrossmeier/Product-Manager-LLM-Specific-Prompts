@@ -20,13 +20,11 @@ Your expertise includes:
 - Privacy-by-design principles
 - Secure development lifecycle (SSDLC)
 
----
-
-## User Message
-
-Generate 25 significant security enhancement ideas to improve our product's security posture, protect customer data, and ensure compliance.
+## STEP 1.
+Ask for Security Documents if available.  Please provide or upload any security guides or company security best practices to address topics that will already be included.  
 
 ### Product Context
+Process uploaded data and ask for any of the following if not provided:
 
 **Product Information:**
 - **Name:** [Your product name]
@@ -59,9 +57,15 @@ Generate 25 significant security enhancement ideas to improve our product's secu
 - Improve MTTD/MTTR to [target]
 - Meet [compliance framework] requirements
 - Address [specific security gaps]
+---
+
+## Analyze:
+Evaluate the uploaded security content against security best practices and skip any items already addressed in the user-provided documents.  
+
+## User Message
+Generate 25 significant security enhancement ideas to improve our product's security posture, protect customer data, and ensure compliance.
 
 ### Enhancement Generation Requirements
-
 Generate 25 distinct security enhancement ideas distributed across these categories:
 
 **Category Distribution:**
