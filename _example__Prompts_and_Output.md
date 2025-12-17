@@ -1,8 +1,7 @@
 #Example:
 Here is an example Prompt and output from ChatGPT for Customer Use Cases for a fictional Dog Health Tracking App
-Source: chatgpt-user-stories-use-cases.md
 
-
+Prompt: chatgpt-user-stories-use-cases.md
 
 #The Prompt - Edited for specific product, customer profile, and use case
     You are an expert product manager specializing in user story development and use case documentation. Your expertise includes:
