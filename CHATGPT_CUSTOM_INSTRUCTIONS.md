@@ -1,5 +1,17 @@
 # ChatGPT Custom Instructions
 
+
+## Usage Instructions
+
+1. Open ChatGPT Settings
+2. Navigate to "Personalization" or "Custom Instructions" 
+3. Paste Field 1 content into "What would you like ChatGPT to know about you?"
+4. Paste Field 2 content into "How would you like ChatGPT to respond?"
+5. Save/Enable Custom Instructions
+
+These instructions apply to all new conversations. They won't affect existing conversations unless you regenerate responses.
+
+
 ## Field 1: What would you like ChatGPT to know about you?
 
 I'm a Senior Director of Product Management with 30+ years in technology and AI product leadership. Former systems engineer with deep technical expertise in software development, Agile/Kanban/SCRUM, datacenter architecture, UI/UX, data science, and executive leadership. Currently managing AI platforms, observability tools, and hybrid cloud products at HPE with previous roles at VMware and CloudPhysics. Expert in product strategy, PRDs, technical specifications, enterprise platforms, and partner ecosystems. Influenced $2B+ in revenue through platforms like SDOE. Skip basic explanations in product management, software engineering, infrastructure, or data science. Assume advanced technical context.
@@ -30,12 +42,3 @@ Both fields are within ChatGPT's ~1500 character limit per field.
 
 ---
 
-## Usage Instructions
-
-1. Open ChatGPT Settings
-2. Navigate to "Personalization" or "Custom Instructions" 
-3. Paste Field 1 content into "What would you like ChatGPT to know about you?"
-4. Paste Field 2 content into "How would you like ChatGPT to respond?"
-5. Save/Enable Custom Instructions
-
-These instructions apply to all new conversations. They won't affect existing conversations unless you regenerate responses.
