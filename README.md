@@ -2,7 +2,7 @@
 
 **A comprehensive library of AI-optimized prompts for product management professionals**
 
-> Accelerate strategic planning, market research, stakeholder communication, and product development with battle-tested prompts for Claude and ChatGPT.
+> Accelerate strategic planning, market research, stakeholder communication, and product development with battle-tested prompts for Claude and ChatGPT.  These scripts are intended to get the ball rolling and not be your final documents.   Each prompt includes more data than any single organization will ever need, but enough context for anyone to remove what they do not need. Use these prompts, trim unnecessary content, and optimize your product management processes.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
@@ -27,22 +27,22 @@ This repository contains **60+ professional-grade prompts** specifically designe
 
 | I Need To... | Use This Prompt |
 |--------------|-----------------|
-| Understand customer pain points | [Pain Points Analysis](#pain-points) (Claude / ChatGPT) |
-| Analyze competitors | [Competitor Analysis](#competitor-analysis) (Claude / ChatGPT) |
-| Develop product strategy | [SWOT Analysis](#swot-analysis) (Claude / ChatGPT) |
-| Get executive buy-in | [Concept PRD](#concept-prd) (Claude / ChatGPT) |
-| Create board materials | [One-Page Overview](#one-page-overview) (Claude / ChatGPT) |
-| Decide build vs buy | [Build vs Buy](#build-vs-buy) (Claude / ChatGPT) |
-| Find partners | [Potential Partners](#potential-partners) (Claude / ChatGPT) |
-| Plan roadmap | [Sample Roadmap](#sample-roadmap) (Claude / ChatGPT) |
-| Generate enhancement ideas | [25 Enhancements](#enhancement-generation) (Multiple) |
-| Prioritize features | [Prioritization Frameworks](#prioritization) (Multiple) |
+| Understand customer pain points | Pain Points Analysis(#pain-points) (Claude / ChatGPT) |
+| Analyze competitors | Competitor Analysis(#competitor-analysis) (Claude / ChatGPT) |
+| Develop product strategy | SWOT Analysis(#swot-analysis) (Claude / ChatGPT) |
+| Get executive buy-in | Concept PRD(#concept-prd) (Claude / ChatGPT) |
+| Create board materials | One-Page Overview(#one-page-overview) (Claude / ChatGPT) |
+| Decide build vs buy | Build vs Buy(#build-vs-buy) (Claude / ChatGPT) |
+| Find partners | Potential Partners(#potential-partners) (Claude / ChatGPT) |
+| Plan roadmap | Sample Roadmap(#sample-roadmap) (Claude / ChatGPT) |
+| Generate enhancement ideas | 25 Enhancements(#enhancement-generation) (Multiple) |
+| Prioritize features | Prioritization Frameworks(#prioritization) (Multiple) |
 
 ### Basic Usage
 
-1. **Select Platform**: Choose Claude or ChatGPT prompt version
+1. **Select Platform**: Choose Claude or ChatGPT prompt version; some are non-platform specific.
 2. **Open Prompt**: Click the relevant `.md` file
-3. **Fill Context**: Replace `[bracketed]` placeholders with your details
+3. **Fill Context**: Edit prompt and replace `[bracketed]` placeholders with your details where possible.  You can also advise your LLM to make assumptions for the rough draft.
 4. **Copy & Run**: Paste into your AI platform
 5. **Iterate**: Refine results with follow-up questions
 
@@ -51,9 +51,9 @@ This repository contains **60+ professional-grade prompts** specifically designe
 ```markdown
 From: chatgpt-pain-points.md
 
-Product: [Acme Analytics Platform]  → Product: "Enterprise data visualization tool"
-Target Market: [Industry]           → Target Market: "Fortune 500 finance teams"
-Known Issues: [List]                → Known Issues: "Slow dashboard loading, complex onboarding"
+Product: [Acme Analytics Platform]  → Product: "Enterprise data visualization tool."
+Target Market: [Industry]           → Target Market: "Fortune 500 finance teams."
+Known Issues: [List]                → Known Issues: "Slow dashboard loading, complex onboarding. RedFish API is incomplete."
 ```
 
 ---
