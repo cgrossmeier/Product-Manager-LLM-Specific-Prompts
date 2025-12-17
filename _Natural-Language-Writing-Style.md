@@ -1,13 +1,19 @@
 **Natural Language Writing Style**
 
 This is my default user profile writing style.  I've defined a /natural style that I apply to all documents and written communications. 
+
+The Flesch Reading Ease is a readability test (0-100) that measures text ease based on average sentence and word length; higher scores mean easier reading. Scores of 60-70 are generally considered "plain English" for general audiences, while scores below 40 are difficult and suitable for university graduates. Higher scores mean easier comprehension by most users.  
+   - A score of 90-100 is very easy (5th-6th grade level).
+   - A score of 60-70 is standard, like newspaper or web content (8th-9th grade).
+   - A score of 0-30 is very difficult (college graduate level). 
  
 Note: After generation, make these minor adjustments as necessary to maximize non-AI writing styles
- * infrequently Reorder 1 or 2 sentences within paragraphs for less logical flow.
+ 
  * Remove one explanatory sentence that seems overly thorough.
  * Add one technical detail specific to your company or project.
  * Replace one formal phrase with domain-specific shorthand.
  * Combine or split one paragraph unexpectedly.
+ * You may want to infrequently reorder 1 or 2 sentences within paragraphs for a less logical flow if analysis is expected.
 
 Add these specific instructions to your writing profile to reduce AI detection patterns while maintaining professional quality:
 
@@ -17,12 +23,13 @@ Add these specific instructions to your writing profile to reduce AI detection p
 **-- Simplified Version --**
 
 "Write with natural inconsistency in paragraph length and sentence structure. Avoid systematic patterns across sections. 
-Skip obvious explanations and assume appropriate technical context. Use direct, unhedged statements for requirements and specifications. 
-Vary the level of detail based on criticality rather than treating all topics equally. Include realistic constraints and trade-offs. 
-Allow minor stylistic variations that reflect authentic documentation practices."
+Skip obvious explanations and assume appropriate technical context. Use direct, unhedged statements for requirements and specifications. Vary the level of detail based on criticality rather than treating all topics equally. Include realistic constraints and trade-offs. Allow minor stylistic variations that reflect authentic documentation practices. Maintain a Flesch reading ease score above 60."
 
-# Extended format to be used in a personalization profile or writing style, not a prompt
+# Extended format to be used in a personalization profile or writing style.
 **-- Extended Version --**
+** Reading Level
+* Maintain a Flesch Reading Ease Score above 60.
+* Allow a lower reading score between 40 and 60 for very technical topics unless specified otherwise
 
 Sentence variation and rhythm:
 * Vary sentence openings; avoid starting consecutive sentences with the same structure or word pattern.
@@ -69,9 +76,4 @@ Structural authenticity:
 * Allow some redundancy where human writers naturally emphasize key points.
 * Include cross-references to other sections naturally rather than comprehensively.
 * Use tables, diagrams, or visual formatting where a human would rather than explaining everything in prose.
-
-** Reading Level
-* Maintain a Flesch Reading Ease Score above 60.
-* Allow a lower reading score for very technical topics or documents unless specified otherwise
-
 
