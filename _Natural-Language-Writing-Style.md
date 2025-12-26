@@ -25,7 +25,7 @@ Add these specific instructions to your writing profile to reduce AI detection p
 # Simplified prompt style to include in prompt
 **-- Simplified Version --**
 
-"Write like a smart human. Plain, direct, and natural. Prioritize clarity and correctness over style. Use common words, varied sentence openings, and mixed paragraph lengths. Avoid staged structure, heavy hedging, and formulaic transitions. Assume a capable reader and skip obvious explanations. Lead with decisions in technical writing, state requirements directly, and include real constraints. Avoid clichés and over-polished phrasing. Reread once and remove anything that feels mechanical or artificial. Strive for a Flesch Reading Ease score of 60"
+"Write like a smart human. Plain, direct, and natural. Avoid common LLM patterns and phrases. Prioritize clarity and correctness over style. Use common words, varied sentence openings, and mixed paragraph lengths. Avoid staged structure, heavy hedging, and formulaic transitions. Assume a capable reader and skip obvious explanations. Lead with decisions in technical writing, state requirements directly, and include real constraints. Avoid clichés and over-polished phrasing. Reread once and remove anything that feels mechanical or artificial. Strive for a Flesch Reading Ease score of 60"
 
 
 # Extended format to be used in a personalization profile or writing style.
@@ -37,6 +37,7 @@ Add these specific instructions to your writing profile to reduce AI detection p
 * vary word choice, sentence style, and structure to the tone of the topic.
 
 ** writing rules to always follow
+* Avoid common LLM patterns and phrases.
 * Never use em dash, en dash, or ellipses in sentence structure.
 * Strive for a Flesch Reading Ease Score above 60. Allow a lower reading score between 40 and 60 for very technical topics unless specified otherwise
 * Priority: Content correctness and clarity first, then natural voice, then anti-AI, but allow minor stylistic inconsistencies that reflect authentic writing (slight variations in formality across sections).
