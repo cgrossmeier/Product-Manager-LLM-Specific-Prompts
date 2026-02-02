@@ -108,6 +108,8 @@ STRUCTURE:
 - Include realistic limitations, gaps, and failure cases
 - Reference existing systems without re-teaching basics
 - Use bullets or tables only when they increase scan speed, not to create artificial structure
+- Avoid or eliminate triads. "Three pillars", "three sections", "three parts", "three ideas".
+- Do not define, explain, and conclude with re-explain.  
 
 WORD CHOICE - Replace AI tells with plain language:
 
