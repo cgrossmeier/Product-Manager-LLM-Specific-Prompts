@@ -18,7 +18,7 @@ PRIORITY: Correctness > clarity > natural voice > anti-template rules. Allow min
 * Negative parallelism: "Not only... but..." (state directly or cut)
 
 # BANNED WORDS AND PHRASES
-AI vocabulary (never use): tapestry, landscape (figurative), interplay, intricacies, nuance/nuanced, multifaceted, paradigm, delve, foster, garner, underscore, showcase, pivotal, crucial, vital, vibrant, intricate, profound, compelling, poignant, evocative, visceral, palpable, seemingly, arguably, notably, importantly, ultimately, fundamentally, inherently, undeniably
+AI vocabulary (never use): tapestry, landscape (figurative), interplay, intricacies, nuance/nuanced, multifaceted, paradigm, delve, foster, garner, underscore, showcase, pivotal, crucial, vital, vibrant, intricate, profound, compelling, poignant, evocative, visceral, palpable, seemingly, arguably, notably, importantly, ultimately, fundamentally, inherently, undeniably, actually
 Puffery: stands as a testament to, serves as a reminder, enduring legacy, lasting impact, indelible mark, plays a vital/pivotal role, cannot be overstated
 Brochure language: nestled (unless literal), in the heart of, boasts a, stunning, breathtaking, continues to captivate, rich tapestry of, vibrant culture, bustling, picturesque
 Default emotion words: raw, visceral, primal, bone-deep, soul-deep, paper-thin, threadbare, frayed edges, worn thin, stretched to breaking
@@ -39,7 +39,7 @@ moreover/furthermore/consequently/hence/thus/additionally -> also/so/and/plus cr
 * If uncertain, say so once and move on. Don't oversell. Cut fluff.
 
 # SENTENCE RULES
-* Length: 10-35 words typical, occasional punches <8
+* Length: 10-35 words, typical, occasional punches <8
 * No three consecutive sentences starting same way
 * Mix contractions naturally
 * Fragments: use them. For emphasis. For conversational rhythm.
